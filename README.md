@@ -1,6 +1,6 @@
 ![Alt Text](https://j.gifs.com/6XlqvL.gif)
 
-#picCASO <br /><br>
+# picCASO <br /><br>
 picCASO is a MATLAB package to simulate the dynamics of spatial patterning of a microbial consortium on a 2-dimensional surface. <br><br>
 Please download the Package folder and run CoverScript.m <br /> <br />
 Data to be inputted by the user: <br />
